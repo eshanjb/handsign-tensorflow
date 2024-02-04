@@ -38,14 +38,10 @@ export default function About() {
             </Text>
             <Image src={handImages} />
             <Text fontSize="sm">
-              This sign language illustration is created by{" "}
-              <Link
-                href="https://thenounproject.com/pelodrome/"
-                isExternal
-                color="orange.300"
-              >
-                Pelin Kahraman
-              </Link>
+              This sign language illustration is created by
+              
+                Eshan Jain Brils
+              
             </Text>
           </ModalBody>
           <ModalFooter>
